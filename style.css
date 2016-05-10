@@ -1,0 +1,35 @@
+.menu{
+	background-color: #BA55D3;
+	display: block;
+	width: 900px;
+	padding-right: 0;
+	border: 1px solid black;
+	clear: both;
+	
+}
+
+p{
+	/*width: 129px;*/
+	font-weight: normal;
+	color:white;
+	font-size: 16px;
+	font-family:serif;
+	text-align: center;
+	clear: both;
+}
+
+.menu_item{
+	float: left;
+	display: block;
+	background-color: #BA55D3;
+	margin-right: -5px;
+	text-align: center;
+	height: 40px;
+	width: 128.57px;
+}
+
+
+.menu_item:hover{
+	background-color: #EEE9E9;
+	color: #8B8989;
+}
