@@ -1,5 +1,5 @@
 .*{
-	box-sizing:box-content;
+	box-sizing:content-box;
 }
 .menu{
 	background-color: #BA55D3;
